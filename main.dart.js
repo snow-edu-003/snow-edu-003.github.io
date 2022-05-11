@@ -69389,7 +69389,7 @@ o=A.a([],q)
 for(n=0;n<r;n=m){m=n+1
 o.push(A.bY(""+m+"\ub4f1: "+J.an9(J.ab(s.h(k,1),n),2)+" \ucd08",l,l,l,B.w6,l,l))}B.c.L(p,o)
 k=A.dz(A.a([A.dq(A.a([new A.nm(1,B.fQ,A.dz(p,B.v,B.au,B.u),l)],q),B.d2,B.bo,B.u)],q),B.v,B.au,B.u)}else{p=A.a([B.wb],q)
-for(n=0;n<r;n=m){m=n+1
+for(n=0;n<10;n=m){m=n+1
 p.push(A.bY(""+m+"\ub4f1: "+J.an9(J.ab(s.h(k,1),n),2)+" \ucd08",l,l,l,B.w6,l,l))}k=A.cZ(A.dz(A.a([A.dz(p,B.v,B.au,B.u)],q),B.v,B.a8,B.u),l,1/0)}return k}},
 $S:146}
 A.xQ.prototype={
